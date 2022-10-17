@@ -2,7 +2,7 @@
 
 <br>
 
-#### 1. [c++]()
+#### 1. [c++](https://github.com/windy825/language/tree/master/cpp)
 
 **`자율주행 이론 구현`**
 
@@ -12,7 +12,7 @@
 
 <br>
 
-#### 2. [Python](https://github.com/windy825/language/tree/master/Python%20%EC%97%B0%EA%B5%AC)
+#### 2. [Python](https://github.com/windy825/language/tree/master/Python)
 
 **`이론 연구`**
 
